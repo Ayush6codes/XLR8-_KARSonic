@@ -13,3 +13,7 @@ So what's the use of both types of turns ?
 While taking turns on a slope, we noticed that the 2nd method of turning resulted in slipping of the bot. This was because 2 wheels moved in the reverse direction in this turning, and this caused them to slip and fall. Thus we developed the 1st method of turning, in which all the wheels move forward, but 2 of them slower (almost zero speed) than the others. Because of this method, the bot didn't slip while turning on slopes. Also, it resulted in faster turns at a few places which provided a time advantage in the competition.
 
 PS: The code was tested just 20-30 mins before our final run :)
+
+# Help from our Mentor
+
+Our mentor (Aditya Anmol) helped us a lot. He cleared all our doubts regarding the controller, circuits, etc. He also suggested and encouraged us in trying a suspension mechanism for our bot. He helped us troubleshoot issues regarding our bot.
