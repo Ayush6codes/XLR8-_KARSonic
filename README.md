@@ -11,7 +11,7 @@ Our bot has a special feature we coded in the Raspberry Pi Pico W. First, it sho
 So what's the use of both types of turns ?
 <br/><br/>
 While taking turns on a slope, we noticed that the 2nd method of turning resulted in slipping of the bot. This was because 2 wheels moved in the reverse direction in this turning, and this caused them to slip and fall. Thus we developed the 1st method of turning, in which all the wheels move forward, but 2 of them slower (almost zero speed) than the others. Because of this method, the bot didn't slip while turning on slopes. Also, it resulted in faster turns at a few places which provided a time advantage in the competition. 
-<br/> We have shared the video of our innovative turn mechanism. 
+<br/><br/> We have shared the video of our innovative turn mechanism. <br/>NOTE: We have shared the model of our RC Car with the suspension system we were gonna (and are gonna) make. But the model for the run didn't have springs, just the bolts.
 
 PS: The code was tested just 20-30 mins before our final run :)
 
