@@ -4,7 +4,7 @@ Overall, it was a very nice experience, learning Mechanical, Electrical, and Cod
 
 
 # What makes our bot different
-Our bot has a special feature we coded in the Raspberry Pi Pico W. First, it should be noted that we have used the differential drive. The bot can take two types of turns: <br/>1) Having some turn radius and moving while turning (basically like an Axle Drive) and 
+Our bot has a special feature we coded in the Raspberry Pi Pico W. First, it should be noted that we have used the differential drive. <br/>The bot can take two types of turns: <br/>1) Having some turn radius and moving while turning (basically like an Axle Drive) and 
 <br/>2) Having 0 turn radius. 
 <br/> We named the 1st as - "Small Turn" and the 2nd as - "Large Turn". The trigger for both is effortless. For example, if the controller is tilted right up to an angle of 70 degrees, then it will take a small right turn, while if it is tilted further than 70 degrees (up to 90) then it will take a large right turn. Same for the left. We also adjusted speeds and trigger angle (so that a small accidental tilt won't result in taking turns).
 <br/><br/>
