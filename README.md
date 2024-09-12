@@ -17,4 +17,4 @@ PS: The code was tested just 20-30 mins before our final run :)
 
 # Help from our Mentor
 
-Our mentor (Aditya Anmol) helped us a lot. He cleared all our doubts regarding the controller, circuits, etc. He also suggested and encouraged us in trying a suspension mechanism for our bot. He helped us troubleshoot issues regarding our bot.
+Our mentors (Aditya Anmol and Abhinav Bijlani) helped us a lot. They cleared all our doubts regarding the controller, circuits, etc. We were also suggested and encouraged us in trying a suspension mechanism for our bot by Aditya. They helped us troubleshoot issues regarding our bot.
