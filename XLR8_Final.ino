@@ -1,20 +1,11 @@
-/*
-Bot programming code: Written on CPP modified to work on Arduino IDE
-Written for and by Electronics & Robotics Club, IIT Bombay with assistance from internet resources.
-
-For: Raspberry Pi Pico W to navigate a 4-wheeled bot based on differential drive(INCOMPLETE)
-NOTE: ALL LIBRARIES COME PREINSTALLED IN YOUR ARDUINO IDE, YOU AREN'T EXPECTED TO INSTALL ANYTHING EXTRA OTHER THAN WHAT WAS TAUGHT IN GET CODIFIED.
-©ERC // MIT License 2024 
-*/
-
 #include <WiFi.h>
 #include <typeinfo>
 #include <string.h>
 #include <stdio.h>
 
 // SSID and password for the access point
-const char* ssid = "KARSonic"; //Enter your team name as the SSID here
-const char* password = "Bando@69"; // Make a good password!
+const char* ssid = "KARSonic"; // Team name as the SSID 
+const char* password = "Bando@69"; // Password
 
 // Define a structure to hold IMU (Inertial Measurement Unit) data
 typedef struct {
